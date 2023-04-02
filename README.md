@@ -1,5 +1,6 @@
 Vinda Store Sales Analysis
 Business Issue :
+
 Vinda Store wants to create an annual sales report for 2022 so that they can understand the customer and grow more sales in 2023.
 
 Dashboard: Vinda store Sales image
