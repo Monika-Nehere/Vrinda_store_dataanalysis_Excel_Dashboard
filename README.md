@@ -3,7 +3,7 @@ Business Issue :
 
 Vrinda Store wants to create an annual sales report for 2022 so that they can understand the customer and grow more sales in 2023.
 
-Dashboard: Vinda store Sales image
+Dashboard: Vrinda store Sales image
 ![Vrinda store Dashboard](https://user-images.githubusercontent.com/124427710/229343917-4dcff74a-7475-483b-8e40-a2839e65da02.png)
 
 
